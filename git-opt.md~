@@ -1,6 +1,4 @@
 参考： http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-##### add 空目录
-> git不支持add 一个空目录，你可以往这个空目录写一个.ignore或者README
 
 ##### 本地仓库关联远程仓库
 > git remote add origin git@github.com:你的名字/你的response.git
